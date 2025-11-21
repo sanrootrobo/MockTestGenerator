@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # 🚀 Gemini AI Mock Test Generator
 **The Ultimate Automated Exam Creation Tool**
 
@@ -131,7 +131,7 @@ node script.js \
 
 This project is licensed under the **GPL-3.0 License** — see the `LICENSE` file for full details.
 
-```
+
 
 ---
 
@@ -143,4 +143,4 @@ If you want, I can also generate:
 ✅ A clean JSON schema for the exported test data  
 
 Just tell me **"improve further"** or **"add badges"**.
-```
+
